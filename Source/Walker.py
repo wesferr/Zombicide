@@ -1,5 +1,4 @@
-#!/usr/bin/python2
-# -*- coding: latin-1 -*-
+# Copyright (c) 2018 by Wesley Ferreira. All Rights Reserved.
 from pygame import *
 from pygame.locals import *
 from spritesGame import *
